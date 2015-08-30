@@ -3,3 +3,10 @@ Pygments
 evdev
 Kivy
 cx_freeze
+
+archlinux 安装包名称：
+cython 
+python-pygments
+libevdev 
+aur:python-kivy 
+python-cx_freeze 
